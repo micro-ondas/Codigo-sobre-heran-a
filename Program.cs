@@ -1,1 +1,1 @@
-﻿Colaborador c = new("guigui", 19, "garoto de programa", 456789);
+﻿Colaborador c = new("guigui", 19, "garoto que programa", 456789);
