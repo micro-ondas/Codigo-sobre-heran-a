@@ -1,0 +1,14 @@
+C:\Users\cleid\Desktop\beterraba\projetos\poo c#\02heranca\bin\Debug\net9.0\02heranca.exe
+C:\Users\cleid\Desktop\beterraba\projetos\poo c#\02heranca\bin\Debug\net9.0\02heranca.deps.json
+C:\Users\cleid\Desktop\beterraba\projetos\poo c#\02heranca\bin\Debug\net9.0\02heranca.runtimeconfig.json
+C:\Users\cleid\Desktop\beterraba\projetos\poo c#\02heranca\bin\Debug\net9.0\02heranca.dll
+C:\Users\cleid\Desktop\beterraba\projetos\poo c#\02heranca\bin\Debug\net9.0\02heranca.pdb
+C:\Users\cleid\Desktop\beterraba\projetos\poo c#\02heranca\obj\Debug\net9.0\02heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleid\Desktop\beterraba\projetos\poo c#\02heranca\obj\Debug\net9.0\02heranca.AssemblyInfoInputs.cache
+C:\Users\cleid\Desktop\beterraba\projetos\poo c#\02heranca\obj\Debug\net9.0\02heranca.AssemblyInfo.cs
+C:\Users\cleid\Desktop\beterraba\projetos\poo c#\02heranca\obj\Debug\net9.0\02heranca.csproj.CoreCompileInputs.cache
+C:\Users\cleid\Desktop\beterraba\projetos\poo c#\02heranca\obj\Debug\net9.0\02heranca.dll
+C:\Users\cleid\Desktop\beterraba\projetos\poo c#\02heranca\obj\Debug\net9.0\refint\02heranca.dll
+C:\Users\cleid\Desktop\beterraba\projetos\poo c#\02heranca\obj\Debug\net9.0\02heranca.pdb
+C:\Users\cleid\Desktop\beterraba\projetos\poo c#\02heranca\obj\Debug\net9.0\02heranca.genruntimeconfig.cache
+C:\Users\cleid\Desktop\beterraba\projetos\poo c#\02heranca\obj\Debug\net9.0\ref\02heranca.dll

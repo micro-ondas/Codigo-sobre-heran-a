@@ -1,0 +1,1 @@
+﻿Colaborador c = new("guigui", 19, "garoto de programa", 456789);
